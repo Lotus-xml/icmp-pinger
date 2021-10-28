@@ -1,0 +1,7 @@
+{
+  "color": "BLUE",
+  "online-color": "LIGHT_GREEN",
+  "offline-color": "RED",
+  "online": "{host.address} UP",
+  "offline": "{host.address} DOWN"
+}
